@@ -95,7 +95,7 @@ if uploaded_file is not None:
         )
 
         # Initialize the LLM with OpenAI's Key
-        llm = OpenAI(api_key='your_key')
+        llm = OpenAI(api_key = st.secrets["OPENAI_API_KEY"])
 
         # Create the rephrasing chain
         answer_prompt = PromptTemplate.from_template(
