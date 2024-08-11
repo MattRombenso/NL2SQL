@@ -1,0 +1,15 @@
+trans_date_trans_time: object
+merchant: object
+category: object
+amt: float64
+city: object
+state: object
+lat: float64
+long: float64
+city_pop: int64
+job: object
+dob: object
+trans_num: object
+merch_lat: float64
+merch_long: float64
+is_fraud: object
