@@ -12,9 +12,9 @@ Dataset used to develop the app is from https://www.kaggle.com/datasets/neharoyc
 To build this application efficiently and ensure reliable performance, the following tools and technologies were used:
 
 - **Python:** The core programming language used to develop the application, chosen for its flexibility, rich ecosystem, and strong data-processing capabilities.
-- 
+  
 - **Streamlit:** Used to create the interactive web interface, enabling rapid development of a user-friendly data application.
-- 
+  
 - **VS Code**: Code editor used for development, testing, and project management.
 
 - **Git & GitHub**: Used for version control, repository hosting, and project documentation.
@@ -58,11 +58,11 @@ A set of example questions and corresponding SQL queries guide the model’s beh
 - FewShotPromptTemplate
 Injects:
 
-Table schema
+  - Table schema
 
-User question
+  - User question
 
-Example mappings
+  - Example mappings
 
 - LLMChain
 Uses the OpenAI language model to generate a SQL query from the user’s natural language input.
