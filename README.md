@@ -117,3 +117,6 @@ Beyond its functional purpose, this project highlights important concepts in con
 The result is an interactive analytical tool that bridges the gap between raw data and user-friendly insights.
 
 This approach reflects a broader trend in data science and analytics: **making complex systems more accessible, efficient, and user-centric through AI-driven interfaces.**
+
+
+Link to streamlit app: csv-nl2sql.streamlit.app/
